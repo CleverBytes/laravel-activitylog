@@ -1,6 +1,6 @@
 ; This file is for unifying the coding style for different editors and IDEs.
 ; More information at http://editorconfig.org
-
+trim_trailing_whitespace = false
 root = true
 
 [*]
